@@ -1,7 +1,7 @@
 <h1 align="center">First things first, I'm Ayaz Alvi</h1>
 <h3 align="center">Android app development, Business Development, Quicker Development</h3>
 
-- 👨‍💻 All of my projects are available at [ayazalvi.web.app/github.html](ayazalvi.web.app/github.html)
+- 👨‍💻 All of my projects are available [here](https://ayazalvi.web.app/github.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
