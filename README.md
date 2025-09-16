@@ -1,84 +1,70 @@
-<!-- Header / Banner -->
-<p align="center">
-  <img alt="banner" src="https://img.shields.io/badge/Developer-Ayaz%20Alvi-1abc9c?style=for-the-badge&logo=github" />
-</p>
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm <span style="color:#1abc9c;">Ayaz Alvi</span></h1>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#1abc9c;">Ghulam Mustafa (Ayaz Alvi)</span></h1>
-<p align="center"><em>I build bridges between business goals and technology — creating strategies and software that drive growth and innovation.</em></p>
+<!-- Animated Typing -->
 <p align="center">
-  <a href="#services">Services</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#routine">A Day in the Life</a> •
-  <a href="#contact">Contact</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1ABC9C&center=true&vCenter=true&width=550&lines=🚀+Builder+%7C+💡+Entrepreneur+%7C+💻+Software+Engineer;I+build+products+that+solve+real+problems;Turning+ideas+into+$100M%2B+opportunities" />
 </p>
 
 ---
 
-## 🔎 About Me
-I’m a versatile professional combining **business acumen** with **technical expertise**. I use a multidisciplinary approach to solve complex problems and drive innovation for businesses and startups. :contentReference[oaicite:1]{index=1}
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,php,laravel,firebase,mysql,postgres,mongodb,git,androidstudio" />
+</p>
 
 ---
 
-## 🛠️ Services I Offer
-Whether you're scaling an enterprise or launching a new idea, I provide strategic and technical support:
-
-- Strategic Business Planning & Growth — roadmap for sustainable growth.  
-- Operational Efficiency Audits — identify and remove bottlenecks.  
-- Custom Software & Automation Solutions — streamline workflows.  
-- Digital Transformation Consulting — modernize systems and processes.  
-- Market Analysis & Competitive Intelligence — data-driven insights.  
-
-(These service descriptions are taken from my portfolio site.) :contentReference[oaicite:2]{index=2}
+## 🌍 What I Build
+- ⚡ Enterprise Apps: **CRM, ERP, HRM, LMS**  
+- 🏥 Healthcare & Emergency Platforms  
+- 📦 E-commerce & Marketplaces  
+- 📊 Business Dashboards & Analytics  
+- 🤖 AI-driven SaaS & Automation  
 
 ---
 
-## 📁 Selected Projects
-Explore a curated selection that demonstrates breadth across domains:
+## 📁 Featured Projects
 
-- **Enterprise Resource Planning System** — business management platform.  
-- **Fintech Startup Mobile App** — mobile app for a disruptive fintech service.  
-- **Cloud-Native Microservices Architecture** — scalable & resilient backend for high traffic apps.  
-- **E-commerce Platform for a Retail Brand** — modern responsive e-commerce site.  
-- **Research on ML for Predictive Analysis** — academic work on market prediction models.  
-- **Venture Capital Pitch & Strategy** — business strategy and pitch deck for seed funding.  
-
-(Short project list pulled from the site; expand each item with links and short case studies in your repo.) :contentReference[oaicite:3]{index=3}
+### 🔹 Enterprise Resource Planning (ERP)  
+<img src="https://via.placeholder.com/800x400?text=ERP+Dashboard+Screenshot" alt="ERP Screenshot" />  
+**Description:** End-to-end ERP platform for SMEs — inventory, HR, finance, and sales.  
+**Tech:** React, Node.js, PostgreSQL, Firebase  
+🔗 [Repo Link](#) | 🌐 [Live Demo](#)
 
 ---
 
-## 📅 A Day In The Life
-A structured routine that supports high performance:
-
-- **Morning (5–8 AM):** Discipline & focus (prayer, karate).  
-- **Day (8 AM–6 PM):** University & professional work — applying academics to real challenges.  
-- **Evening (7 PM):** Gym & health for balance.  
-- **Night (9 PM):** Rest and recharge.  
-
-(This schedule and values are shown on the portfolio site.) :contentReference[oaicite:4]{index=4}
+### 🔹 Fintech Mobile App  
+<img src="https://via.placeholder.com/800x400?text=Fintech+App+UI" alt="Fintech App Screenshot" />  
+**Description:** Secure mobile app for digital wallets, transfers, and bill payments.  
+**Tech:** React Native, Firebase, Node.js  
+🔗 [Repo Link](#) | 🌐 [Live Demo](#)
 
 ---
 
-## 📫 Contact
-Start a conversation — whether it’s a project, question, or collaboration:
-
-- 📞 **Phone:** +92-328-6615227  
-- ✉️ **Email:** hello@ayazalvi.com  
-- 📍 **Location:** Lahore, Pakistan
-
-(Displayed on my portfolio contact section.) :contentReference[oaicite:5]{index=5}
+### 🔹 E-Commerce Platform  
+<img src="https://via.placeholder.com/800x400?text=E-commerce+Storefront" alt="E-commerce Screenshot" />  
+**Description:** Full-stack e-commerce site with payments, admin panel, and analytics.  
+**Tech:** Next.js, MongoDB, Stripe  
+🔗 [Repo Link](#) | 🌐 [Live Demo](#)
 
 ---
 
-## 🔗 Links & Notes
-- Portfolio: https://ayazalvi.com/ (source for content). :contentReference[oaicite:6]{index=6}  
-- Built by Ayaz Alvi. The site notes the source code is available on GitHub (add link to your repo here). :contentReference[oaicite:7]{index=7}
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayazalvi&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazalvi&layout=compact&theme=radical" height="170" />
+</p>
 
 ---
 
-### Want it prettier?
-I can:
-- Add badges (Stack/skills, social links) and animated role-typing at the top.
-- Auto-generate project cards with screenshots and repo links.
-- Produce separate project README templates for each portfolio item (case study + tech stack + demo link).
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://ayazalvi.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:hello@ayazalvi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Which enhancement do you want first — **badges & animated title**, or **project cards with screenshots + repo links**?  
+---
+
+> ✨ *“I don’t just code projects. I build products that solve problems.”*
