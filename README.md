@@ -3,7 +3,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1ABC9C&center=true&vCenter=true&width=550&lines=🚀+Builder+%7C+💡+Entrepreneur+%7C+💻+Software+Engineer;I+build+products+that+solve+real+problems;Turning+ideas+into+$100M%2B+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1ABC9C&center=true&vCenter=true&width=550&lines=🚀+BBuilder+%7C+💡+Entrepreneur+%7C+💻+Software+Engineer;I+build+products+that+solve+real+problems;Turning+ideas+into+$100M%2B+opportunities" />
 </p>
 
 ---
