@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,php,html,kotlin,java,firebase,mysql,postgres,mongodb,git,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,php,kotlin,java,firebase,mysql,postgres,mongodb,git,androidstudio" />
 </p>
 
 ---
